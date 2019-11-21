@@ -1,0 +1,6 @@
+
+ratings_1000000.csv 为从原数据截取的前1000000条数据，原来数据很大，得有200M，所以截取一半进行实验
+
+train_data.txt是根据ratings_1000000.csv文件得到的训练数据文件
+
+item_vec.txt为根据word2vec生成的词向量文件

@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2497a124-15ff-48ee-990a-3998490f504c" name="Default Changelist" comment="" />
+    <list default="true" id="2497a124-15ff-48ee-990a-3998490f504c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Item2Vec-chap4/production/train.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/compute-accuracy" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/compute-accuracy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/compute-accuracy.c" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/compute-accuracy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-analogy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-analogy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-classes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-classes.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-phrase-accuracy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-phrase-accuracy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-phrases.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-phrases.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-train-big-model-v1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-train-big-model-v1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-word-accuracy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-word-accuracy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/demo-word.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/demo-word.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/distance" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/distance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/distance.c" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/distance.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/questions-phrases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/questions-phrases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/questions-words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/questions-words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word-analogy" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word-analogy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word-analogy.c" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word-analogy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word2phrase" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word2phrase" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word2phrase.c" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word2phrase.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word2vec" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word2vec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/bin/word2vec/word2vec.c" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/bin/word2vec/word2vec.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/data/item_vec.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/data/item_vec.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/data/ratings_1000000.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/data/ratings_1000000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/data/train_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/data/train_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/production/produce_item_sim.py" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/production/produce_item_sim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/production/produce_train_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Item2Vec-chap4/production/produce_train_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Item2Vec/train.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/data/movies/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/data/movies/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/data/movies/links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/data/movies/links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/data/movies/movies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/data/movies/movies.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/data/movies/ratings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/data/movies/ratings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/data/movies/tags.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/data/movies/tags.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/draft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/production/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/production/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/production/lfm.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/production/lfm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LFM/util/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/LFM-chap2/util/read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +60,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TjZsB9JzC1BK4tJfVaMLApGah7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LFM/production" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/LFM/production" />
-      <recent name="$PROJECT_DIR$/data/movies" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Item2Vec-chap4/production" />
       <recent name="$PROJECT_DIR$/Item2Vec/bin" />
       <recent name="$PROJECT_DIR$/LFM" />
       <recent name="$PROJECT_DIR$/LFM/production" />
       <recent name="$PROJECT_DIR$/LFM/util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LFM/production" />
+      <recent name="$PROJECT_DIR$/data/movies" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -44,8 +98,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.produce_item_sim">
-    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.produce_item_sim (1)">
+    <configuration name="produce_item_sim (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RecommendSystem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,32 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LFM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Item2Vec-chap4/production" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LFM/draft.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lfm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="RecommendSystem" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LFM/production" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LFM/production/lfm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Item2Vec-chap4/production/produce_item_sim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,6 +183,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecommendSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LFM-chap2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LFM-chap2/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RecommendSystem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.produce_item_sim (1)" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.produce_item_sim" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.produce_train_data" />
-        <item itemvalue="Python.lfm" />
-        <item itemvalue="Python.draft" />
       </list>
     </recent_temporary>
   </component>
@@ -193,5 +247,18 @@
       <updated>1573975669455</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
